@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: [Cornell Medicine]
+description: [Welcome to CIMA!]
+logo: [resources/WCM_MB_LOGO_VTST3L_CLR_RGB.png]
+show_downloads: ["true"]
